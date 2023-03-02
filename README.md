@@ -6,7 +6,7 @@ Nessa primeira imagem foi feita uma análise do RH de uma Empresa. <br/>
 • Total de demissões <br/> 
 • Percentual Turnover de demissões <br/> 
 • Funcionários ativos em cada cidade <br/> 
-• Funcionários ativos por gênero porcentagem do masculino e feminino <br/>   
+• Funcionários ativos por gênero porcentagem do masculino e feminino <br/> 
 • Funcionários em cada área e cargos. <br/> 
 
 ![Captura de tela 2023-03-02 002602](https://user-images.githubusercontent.com/113316157/222323589-6a08ebd0-606f-4053-bfc4-569fa0d931f1.png)
