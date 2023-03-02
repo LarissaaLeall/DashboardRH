@@ -5,7 +5,7 @@ Nessa primeira imagem foi feita uma análise do RH de uma Empresa. <br/>
 • Total de funcionários ativos na empresa <br/> 
 • Total de demissões <br/> 
 • Percentual Turnover de demissões <br/> 
-• Funcionários ativos em cada cidade
+• Funcionários ativos em cada cidade <br/> 
 • Funcionários ativos por gênero porcentagem do masculino e feminino <br/>   
 • Funcionários em cada área e cargos. <br/> 
 
